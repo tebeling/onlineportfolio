@@ -16,6 +16,8 @@ margin:0 auto;
 }
 
 
+
+
 #menue{
  width: 1200px;
 }
@@ -32,9 +34,21 @@ margin:0 auto;
   margin-right: 10px;
 }
 
+
+#tablebox{
+  width: 400px;
+  height:400px;
+  background:#4E5253;
+  margin-top:10px;
+  margin-bottom: 10px;
+  margin-left:10px;
+  margin-right: 10px;
+}
+
+
   .contend_left_table{
     
-    padding: 0px 40px 10px 15px;
+    padding: 0px 10px 10px 15px;
     border-right:1px solid #F1F2F2;
     margin-top:10px;
     
@@ -61,8 +75,18 @@ margin:0 auto;
     
   }
   
-
-  
+ .contend_table_text{
+   
+   margin-top:20px;
+   margin-right:10px;
+   margin-left:10px;
+   width:500px;
+   height:500px;
+   float:right;
+   
+   
+   
+ }  
   
 #project_container_1{
   
@@ -119,7 +143,7 @@ margin:0 auto;
  }
  
  
- #project_container_3{
+#project_container_3{
   
   float: right;
   width: 600px;
@@ -186,7 +210,7 @@ margin:0 auto;
   margin-left:10px;
   margin-right:10px;
  }
- 
+
   
   
 #skillbar{
@@ -213,7 +237,66 @@ margin:0 auto;
   clear:both;
 }
 
+#underheader_1{
+  
+  width:1000x;
+  height:30px;
+  background:#CC99CC;
+  margin-top:0px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right:10px;
+  padding-top:5px;
+  padding-right:25px;
+  text-align:right;
+  
+}
 
+#underheader_2{
+  
+  width:1000x;
+  height:30px;
+  background:#CCCCFF;
+  margin-top:0px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right:10px;
+  padding-top:5px;
+  padding-right:25px;
+  text-align:right;
+  
+}
+
+#underheader_3{
+  
+  width:1000x;
+  height:30px;
+  background:#99CC99;
+  margin-top:0px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right:10px;
+  padding-top:5px;
+  padding-right:25px;
+  text-align:right;
+  
+}
+
+
+#underheader_4{
+  
+  width:1000x;
+  height:30px;
+  background:#FFCC66;
+  margin-top:0px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right:10px;
+  padding-top:5px;
+  padding-right:25px;
+  text-align:right;
+  
+}
 
 #header_1 h1 {
 margin-top:600px;
@@ -250,6 +333,61 @@ text-shadow: 0 1px 0 white;
   clear:both;
 }
 
+#header_3 {
+  width:1000x;
+  height:50px;
+  background:#F1F2F2;
+  margin-top:10px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right: 10px;
+  clear:both;
+  background:#8D5FA7;
+  text-align:right;
+  padding-right:20px;
+  
+}
+
+#header_4{
+  width:1000x;
+  height:50px;
+  background:#8193CA;
+  margin-top:10px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right: 10px;
+  clear:both;
+  text-align:right;
+  padding-right:20px;
+}
+
+#header_5{
+  width:1000x;
+  height:50px;
+  background:#669966;
+  margin-top:10px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right: 10px;
+  clear:both;
+  text-align:right;
+  padding-right:20px;
+}
+
+#header_6{
+  width:1000x;
+  height:50px;
+  background:#FF9933;
+  margin-top:10px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right: 10px;
+  clear:both;
+  text-align:right;
+  padding-right:20px;
+}
+
+
          
 ul{
   list-style-type:none;
@@ -280,7 +418,7 @@ ul{
 
 
 p{
-  font-size:10px;
+  font-size:11px;
   color:#F1F2F2;
   font-family:"Comfortaa";
   font-weight: 500;   
@@ -299,10 +437,28 @@ p{
   
 }
 
+#projects_underheader{
+  
+  font-style:bold;
+  font-size:15px;
+  margin-top:5px;
+  margin-right:20px;
+  text-align:right;
+  color:#F1F2F2;
+  font-family:"Comfortaa"; 
+}
+
+
 #line2{
   
   font-style:bold;
   font-size:14px;
+  margin-top:10px;
+  margin-right:20px;
+  text-align:right;
+  color:#F1F2F2;
+  font-family:"Comfortaa"; 
+  
  
 }
 
@@ -311,15 +467,27 @@ h2{
   color:#F1F2F2;
   font-family:"Comfortaa";
   font-weight: 500; 
+ 
 }
 
 h3{
-  font-size:20px;
+  font-size:15px;
   color:#F1F2F2;
   font-family:"Comfortaa";
   font-weight: 500; 
   padding-right: 20px;
 }
+
+h4{
+  font-size:30px;
+  color:#F1F2F2;
+  font-family:"Comfortaa";
+  font-weight: 500; 
+  padding-right: 20px;
+  padding-top:5px;
+  
+}
+
 
 a:link {
   font-family:"Comfortaa";
@@ -436,10 +604,50 @@ a:active {
 
 }
 
-/* tables */
+
+
+/* styling for the image wrapper  */
+#image_wrap {
+  
+    /* dimensions */
+    margin-left:15px;
+    margin-top:80px;
+    width:500px;
+    height:380px;
+    padding:15px 10px 15px 10px;
+    float:left;
+
+ 
+    /* centered */
+    text-align:center;
+ 
+    /* some "skinning" */
+    background-color:#efefef;
+    border:2px solid #fff;
+    outline:1px solid #ddd;
+    -moz-ouline-radius:4px;
+}
+
+
+#text_area {
+  
+    /* dimensions */
+    margin-left:15px;
+    margin-top:70px;
+    width:620px;
+    height:535px;
+    padding:0 10px 0 10px;
+    float:left;
+    /* some "skinning" */
+    background-color:#4E5253;
+
+}
 
 
 
+
+
+/* For the Skilbar */
 
  .Rhinoceros       { width:100%;  -moz-animation:Rhinoceros 2s ease-out;       -webkit-animation:Rhinoceros 2s ease-out;       }
  .VectorWorks        { width:75%;  -moz-animation:VectorWorks  2s ease-out;        -webkit-animation:VectorWorks 2s ease-out;        }
