@@ -1,0 +1,469 @@
+/*  Stylesheet Sript v1.0  */
+/*      Timo Ebeling      */
+
+/*      Needed for goole fonts      */
+
+
+
+
+body {
+background-color:#4E5253;
+}
+
+#webseite {
+width:1200px;
+margin:0 auto;
+}
+
+
+#menue{
+ width: 1200px;
+}
+
+
+#review{
+  float: left;
+  width: 400px;
+  height:600px;
+  background:#4E5253;
+  margin-top:10px;
+  margin-bottom: 10px;
+  margin-left:10px;
+  margin-right: 10px;
+}
+
+  .contend_left_table{
+    
+    padding: 0px 40px 10px 15px;
+    border-right:1px solid #F1F2F2;
+    margin-top:10px;
+    
+    
+  }
+
+#review2{
+  float: left;
+  width: 400px;
+  height:600px;
+  background:#4E5253;
+  margin-top:10px;
+  margin-bottom: 10px;
+  margin-left:10px;
+  margin-right: 10px;
+}
+
+  .contend_right_table{
+    
+    padding: 0px 15px 10px 40px;
+    border-right:1px solid #F1F2F2;
+    margin-top:10px;
+    
+    
+  }
+  
+
+  
+  
+#project_container_1{
+  
+  float: right;
+  width: 600px;
+  height:50px;
+  background:#8D5FA7;
+  margin-top:10px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right:10px;
+  text-align:right;
+ }
+ 
+#project_container_1_2{
+  
+  float: right;
+  width: 600px;
+  height:30px;
+  background:#CC99CC;
+  margin-top:0px;
+  margin-bottom: 00px;
+  margin-left:10px;
+  margin-right:10px;
+  padding-bottom:5px;
+  text-align:right;
+ }
+ 
+#project_container_2{
+  
+  float: right;
+  width: 600px;
+  height:50px;
+  background:#8193CA;
+  margin-top:0px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right:10px;
+  text-align:right;
+ }
+ 
+#project_container_2_2{
+  
+  float: right;
+  width: 600px;
+  height:30px;
+  background:#CCCCFF;
+  margin-top:0px;
+  margin-bottom: 10px;
+  margin-left:10px;
+  margin-right:10px;
+  text-align:right;
+  padding-bottom:5px;
+ }
+ 
+ 
+ #project_container_3{
+  
+  float: right;
+  width: 600px;
+  height:50px;
+  background:#669966;
+  margin-top:0px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right:10px;
+  text-align:right;
+ }
+ 
+#project_container_3_2{
+  
+  float: right;
+  width: 600px;
+  height:30px;
+  background:#99CC99;
+  margin-top:0px;
+  margin-bottom: 00px;
+  margin-left:10px;
+  margin-right:10px;
+  text-align:right;
+  padding-bottom:5px;
+ }
+ 
+ 
+#project_container_4{
+  
+  float: right;
+  width: 600px;
+  height:50px;
+  background:#FF9933;
+  margin-top:0px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right:10px;
+  text-align:right;
+ }
+ 
+#project_container_4_2{
+  
+  float: right;
+  width: 600px;
+  height:30px;
+  background:#FFCC66;
+  margin-top:0px;
+  margin-bottom: 10px;
+  margin-left:10px;
+  margin-right:10px;
+  text-align:right;
+  padding-bottom:5px;
+ }
+ 
+ 
+#fill{
+  
+  float: right;
+  width: 600px;
+  height:50px;
+  background:#4E5253;
+  margin-top:0px;
+  margin-bottom: 0px;
+  margin-left:10px;
+  margin-right:10px;
+ }
+ 
+  
+  
+#skillbar{
+  float: right;
+  width: 340px;
+  height:600px;
+  background:#4E5253;
+  margin-top:10px;
+  margin-bottom: 10px;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+/*      Header    */
+
+#header_1 {
+  width:1000x;
+  height:60px;
+  background:#F1F2F2;
+  margin-top:10px;
+  margin-bottom: 10px;
+  margin-left:10px;
+  margin-right: 10px;
+  clear:both;
+}
+
+
+
+#header_1 h1 {
+margin-top:600px;
+padding-right: 10px;
+padding-top: 5px;
+font-size:30pt;
+color:#4E5253;
+font-family:"Comfortaa";
+text-align:right;
+font-weight: 500;
+text-shadow: 0 1px 0 white;
+}
+
+#header_1 h2 {
+margin-top:600px;
+padding-right: 30px;
+padding-top: 20px;
+font-size:12pt;
+color:#4E5253;
+font-family:"Comfortaa";
+text-align:right;
+font-weight: 500;
+text-shadow: 0 1px 0 white;
+}
+
+#header_2{
+  width:1000x;
+  height:60px;
+  background:#4E5253;
+  margin-top:10px;
+  margin-bottom: 10px;
+  margin-left:10px;
+  margin-right: 10px;
+  clear:both;
+}
+
+         
+ul{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+} 
+
+#mylist{
+  
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  display:inline;
+  font-size:3px;
+ 
+  color:#A7A9AC;
+  font-family:"Comfortaa";
+  font-weight: 200;
+}
+
+#mylink{
+  text-align:right;
+  color:#A7A9AC;
+  font-family:"Comfortaa";
+  font-weight: 200;
+  font-size:10px;
+}
+
+
+p{
+  font-size:10px;
+  color:#F1F2F2;
+  font-family:"Comfortaa";
+  font-weight: 500;   
+}
+
+#strong{
+  color:#F1F2F2;
+  font-family:"Comfortaa"; 
+
+}
+
+#bb{
+  
+  font-style:bold;
+  font-size:12px;
+  
+}
+
+#line2{
+  
+  font-style:bold;
+  font-size:14px;
+ 
+}
+
+h2{
+  font-size:20px;
+  color:#F1F2F2;
+  font-family:"Comfortaa";
+  font-weight: 500; 
+}
+
+h3{
+  font-size:20px;
+  color:#F1F2F2;
+  font-family:"Comfortaa";
+  font-weight: 500; 
+  padding-right: 20px;
+}
+
+a:link {
+  font-family:"Comfortaa";
+  font-size: 20px;
+  text-decoration: none;
+  color: #F1F2F2;
+}
+
+a:visited {
+  color:#A7A9AC;
+}
+
+
+a:hover {
+  color: #F1F2F2;
+  }
+
+a:active {
+  color: #F1F2F2;
+  }
+  
+  
+/* Navpad under Header */  
+
+  .nav {
+  text-align: right;
+  overflow: hidden;
+  width: 480px;
+  position: relative; }
+  .nav a {
+    display: block;
+    position: relative;
+    float: left;
+    padding: 1em 0 2em;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+    color: #A7A9AC;
+    -webkit-transition: .7s;
+    -moz-transition: .7s;
+    -o-transition: .7s;
+    -ms-transition: .7s;
+    transition: .7s; }
+    .nav a:hover {
+      color: #F1F2F2; }
+
+.effect {
+  position: absolute;
+  left: -12.5%;
+  -webkit-transition: 0.7s ease-in-out;
+  -moz-transition: 0.7s ease-in-out;
+  -o-transition: 0.7s ease-in-out;
+  -ms-transition: 0.7s ease-in-out;
+  transition: 0.7s ease-in-out; }
+
+  .nav a:nth-child(1):hover ~ .effect {
+    left: 12.5%; }
+  .nav a:nth-child(2):hover ~ .effect {
+    left: 37.5%; }
+  .nav a:nth-child(3):hover ~ .effect {
+    left: 62.5%; }
+  .nav a:nth-child(4):hover ~ .effect {
+    left: 87.5%; }
+
+/* ----- line example -----*/
+
+ .ph-line-nav .effect {
+  width: 80px;
+  height: 2px;
+  bottom: 36px;
+  background: #F1F2F2;
+  box-shadow: 0 1px 0 white; 
+  margin-left:-30px;
+}
+
+
+/* ----- skillbar -----*/
+  
+ .content{
+  width: 200px;
+  position:relative;
+  font-size:20px;
+  line-height:25px;
+
+}
+
+ .col { width:50px; }
+
+#skill { 
+  list-style:none; 
+  padding-top:30px;
+}
+
+#skill li em { 
+  position:relative; 
+  top:-30px;
+  font-style: normal;
+}
+
+#skill li { 
+  margin-bottom:50px; 
+  background:#4E5253; 
+  height:5px;
+  font-family:"Comfortaa";
+  color: #F1F2F2;
+  margin-top:10px;
+}
+
+ .expand { 
+  height:10px; 
+  margin:2px 0;
+  background:#F1F2F2; 
+  position:absolute;
+
+}
+
+/* tables */
+
+
+
+
+ .Rhinoceros       { width:100%;  -moz-animation:Rhinoceros 2s ease-out;       -webkit-animation:Rhinoceros 2s ease-out;       }
+ .VectorWorks        { width:75%;  -moz-animation:VectorWorks  2s ease-out;        -webkit-animation:VectorWorks 2s ease-out;        }
+ .ArchiCad      { width:50%;  -moz-animation:ArchiCad2 ease-out;      -webkit-animation:ArchiCad2 2s ease-out;      }
+ .photoshop   { width:80%;  -moz-animation:photoshop 2s ease-out;   -webkit-animation:photoshop 2s ease-out;   }
+ .MaxwellRenderer   { width:65%;  -moz-animation:MaxwellRenderer 2s ease-out;   -webkit-animation:MaxwellRenderer 2s ease-out;   }
+ .Illustrator { width:100%; -moz-animation:Illustrator 2s ease-out; -webkit-animation:Illustrator 2s ease-out; }
+ .InDesign     { width:80%;  -moz-animation:InDesign  2s ease-out;      -webkit-animation:InDesign 2s ease-out;      }
+ .MSOffice   { width:50%;  -moz-animation:MSOffice 2s ease-out;   -webkit-animation:MSOffice 2s ease-out;   }
+
+@-moz-keyframes Rhinoceros5       { 0%  { width:0px;} 100%{ width:100%;}  }
+@-moz-keyframes VectorWorks        { 0%  { width:0px;} 100%{ width:75%;}  }
+@-moz-keyframes ArchiCad2      { 0%  { width:0px;} 100%{ width:50%;}  }
+@-moz-keyframes photoshop   { 0%  { width:0px;} 100%{ width:80%;}  }
+@-moz-keyframes MaxwellRenderer { 0%  { width:0px;} 100%{ width:65%;} }
+@-moz-keyframes Illustrator       { 0%  { width:0px;} 100%{ width:100%;}  }
+@-moz-keyframes InDesign        { 0%  { width:0px;} 100%{ width:80%;}  }
+@-moz-keyframes MSOffice      { 0%  { width:0px;} 100%{ width:50%;}  }
+
+@-webkit-keyframes Rhinoceros       { 0%  { width:0px;} 100%{ width:100%;}  }
+@-webkit-keyframes VectorWorks       { 0%  { width:0px;} 100%{ width:75%;}  }
+@-webkit-keyframes ArchiCad2      { 0%  { width:0px;} 100%{ width:50%;}  }
+@-webkit-keyframes photoshop   { 0%  { width:0px;} 100%{ width:80%;}  }
+@-webkit-keyframes MaxwellRenderer { 0%  { width:0px;} 100%{ width:65%;} }
+@-webkit-keyframes Illustrator       { 0%  { width:0px;} 100%{ width:100%;}  }
+@-webkit-keyframes InDesign        { 0%  { width:0px;} 100%{ width:80%;}  }
+@-webkit-keyframes MSOffice      { 0%  { width:0px;} 100%{ width:50%;}  }
